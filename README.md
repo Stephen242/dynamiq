@@ -8,6 +8,6 @@ A macOS utility that transforms the MacBook notch into a dynamic, customizable s
 
 ## Getting Started
 ```bash
-make build   # Build the project
-make run     # Run the app
-make test    # Run unit tests
+make build 
+make run
+make test
