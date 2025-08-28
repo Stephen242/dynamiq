@@ -52,6 +52,11 @@
 			path = dynamiqUITests;
 			sourceTree = "<group>";
 		};
+		9759F8272E60B75A00377BCE /* .github */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = .github;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +93,7 @@
 				9759F7EC2E60B1C700377BCE /* Products */,
 				9759F8192E60B1DF00377BCE /* LICENSE */,
 				9759F81B2E60B1DF00377BCE /* README.md */,
+				9759F8272E60B75A00377BCE /* .github */,
 			);
 			sourceTree = "<group>";
 		};
@@ -118,6 +124,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				9759F7ED2E60B1C700377BCE /* dynamiq */,
+				9759F8272E60B75A00377BCE /* .github */,
 			);
 			name = dynamiq;
 			packageProductDependencies = (
